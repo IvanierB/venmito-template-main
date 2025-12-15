@@ -1,0 +1,237 @@
+id , client_email                   , telephone   , promotion     , responded, promotion_date
+  1, Rishi.Barron@example.com       , 331-128-4346, Oreoz         , No       , 2022-09-20
+  2,                                , 885-134-1740, RedCow        , No       , 2022-01-21
+  3,                                , 870-909-4612, Dovee         , Yes      , 2023-12-29
+  4, Dulcie.Melendez@example.com    ,             , RedCow        , Yes      , 2022-08-22
+  5,                                , 561-365-7378, Popsi         , Yes      , 2023-08-10
+  6, fey_kuser@example.com          ,             , Flixnet       , Yes      , 2024-01-21
+  7, Chester.Bell@example.com       ,             , Flixnet       , No       , 2022-07-06
+  8, Cecilia.Edwards@example.com    ,             , Popsi         , No       , 2024-01-17
+  9,                                , 958-724-3846, Oreoz         , Yes      , 2022-08-03
+ 10, Kacie.Lester@example.com       , 673-651-6332, GatorBoost    , Yes      , 2022-03-25
+ 11, Gareth.Sanford@example.com     , 161-842-7749, KittyKat      , No       , 2022-07-10
+ 12,                                , 176-108-4411, Flixnet       , No       , 2023-03-15
+ 13, Annalise.Stephens@example.com  ,             , Dovee         , No       , 2022-06-03
+ 14, Tomos.Velez@example.com        , 233-661-3978, RedCow        , Yes      , 2022-08-04
+ 15, Deacon.Boone@example.com       ,             , Oreoz         , Yes      , 2022-08-22
+ 16, fey_kuser@example.com          ,             , Coca-Splash   , Yes      , 2023-05-20
+ 17,                                , 416-772-8288, Oreoz         , No       , 2024-01-05
+ 18, Usman.Swanson@example.com      , 431-103-9132, Coca-Splash   , No       , 2024-03-17
+ 19, fey_kuser@example.com          ,             , Flixnet       , Yes      , 2024-02-06
+ 20, Kelvin.Hendricks@example.com   ,             , Coca-Splash   , No       , 2024-01-14
+ 21,                                , 563-494-9026, Coca-Splash   , Yes      , 2023-09-27
+ 22, Marwa.Dennis@example.com       , 444-295-8051, GatorBoost    , Yes      , 2023-05-31
+ 23, Fletcher.Moreno@example.com    ,             , Flixnet       , No       , 2022-09-19
+ 24, fey_kuser@example.com          ,             , Colgatex      , Yes      , 2023-11-14
+ 25, Brenda.Ingram@example.com      ,             , Colgatex      , No       , 2023-09-28
+ 26, Bridget.Oneill@example.com     ,             , Coca-Splash   , No       , 2024-03-09
+ 27, Zara.Washington@example.com    ,             , Dovee         , No       , 2024-03-05
+ 28,                                , 492-337-4468, Flixnet       , Yes      , 2023-02-19
+ 29, Azaan.Roth@example.com         ,             , Flixnet       , Yes      , 2022-02-09
+ 30, Sandra.Bowman@example.com      ,             , KittyKat      , No       , 2023-12-20
+ 31,                                , 508-390-8347, GatorBoost    , Yes      , 2022-11-07
+ 32, Ted.Wiggins@example.com        ,             , KittyKat      , Yes      , 2022-08-26
+ 33,                                , 507-446-1333, KittyKat      , Yes      , 2022-12-06
+ 34, Daniela.James@example.com      ,             , GatorBoost    , Yes      , 2022-07-08
+ 35, Mike.Hurst@example.com         , 488-247-6930, Dovee         , Yes      , 2022-09-05
+ 36,                                , 986-281-7506, KittyKat      , No       , 2023-09-18
+ 37, Luqman.Carrillo@example.com    , 124-533-2523, Coca-Splash   , Yes      , 2022-11-10
+ 38,                                , 338-784-4359, Dovee         , No       , 2024-03-12
+ 39,                                , 533-397-5445, Krafty Cheddar, No       , 2022-06-29
+ 40,                                , 742-395-8995, Flixnet       , No       , 2024-01-25
+ 41, Lily.Chan@example.com          ,             , KittyKat      , Yes      , 2023-12-19
+ 42, Clifford.Mcgee@example.com     ,             , Coca-Splash   , No       , 2022-06-30
+ 43,                                , 139-396-1336, Oreoz         , No       , 2022-07-12
+ 44, Nelson.Huff@example.com        , 169-619-4582, Coca-Splash   , Yes      , 2023-11-22
+ 45, Zayn.Webb@example.com          , 561-761-7547, GatorBoost    , No       , 2022-06-08
+ 46, Brooklyn.Fowler@example.com    ,             , Popsi         , Yes      , 2023-05-27
+ 47, Patrick.Morse@example.com      , 220-102-3684, KittyKat      , Yes      , 2022-11-09
+ 48,                                , 727-289-2785, GatorBoost    , No       , 2022-05-03
+ 49, Tia.Ali@example.com            ,             , Dovee         , No       , 2023-01-27
+ 50, Tony.Shepard@example.com       ,             , Colgatex      , No       , 2022-03-08
+ 51,                                , 886-278-8764, Popsi         , No       , 2023-01-11
+ 52, Oliver.Garner@example.com      , 937-976-2511, Dovee         , No       , 2022-01-11
+ 53, Ismaeel.Schmidt@example.com    ,             , Dovee         , Yes      , 2022-11-30
+ 54, David.Mcconnell@example.com    ,             , KittyKat      , No       , 2022-04-22
+ 55, Christopher.Pollard@example.com,             , GatorBoost    , No       , 2022-10-24
+ 56,                                , 111-862-3502, Colgatex      , No       , 2024-03-27
+ 57, Kitty.Carroll@example.com      , 305-617-1384, Coca-Splash   , No       , 2022-06-04
+ 58,                                , 891-887-3513, Oreoz         , Yes      , 2023-12-02
+ 59,                                , 185-189-3978, Krafty Cheddar, Yes      , 2023-07-19
+ 60, Steven.Reid@example.com        , 490-977-4025, Popsi         , Yes      , 2022-12-28
+ 61, Casey.Finley@example.com       , 306-893-4689, RedCow        , No       , 2024-01-26
+ 62, Maximillian.Atkins@example.com , 421-834-8740, Oreoz         , Yes      , 2023-12-31
+ 63, Jayden.Meyers@example.com      ,             , Krafty Cheddar, Yes      , 2023-07-02
+ 64, Sahil.Lyons@example.com        ,             , Oreoz         , No       , 2024-02-12
+ 65,                                , 491-961-7709, Krafty Cheddar, No       , 2024-03-27
+ 66, Bethan.Franco@example.com      ,             , Popsi         , Yes      , 2023-05-29
+ 67, Mariam.Campos@example.com      ,             , Oreoz         , Yes      , 2023-12-21
+ 68, Lucia.Cisneros@example.com     ,             , GatorBoost    , No       , 2022-09-29
+ 69, Aidan.Mcmahon@example.com      ,             , Popsi         , No       , 2023-11-13
+ 70,                                , 110-478-3409, Popsi         , Yes      , 2022-02-05
+ 71,                                , 111-862-3502, KittyKat      , No       , 2024-03-25
+ 72,                                , 138-806-4136, Popsi         , No       , 2022-06-22
+ 73,                                , 899-668-7177, Colgatex      , No       , 2024-04-05
+ 74,                                , 142-470-3907, Oreoz         , Yes      , 2022-05-20
+ 75, Martin.Perry@example.com       , 586-420-6418, GatorBoost    , No       , 2023-05-15
+ 76,                                , 886-278-8764, GatorBoost    , No       , 2023-08-14
+ 77, Kian.Stephens@example.com      ,             , Popsi         , No       , 2024-02-04
+ 78,                                , 786-291-8203, Popsi         , Yes      , 2022-07-07
+ 79, Kate.Cline@example.com         ,             , KittyKat      , No       , 2022-12-19
+ 80, Brooklyn.Gamble@example.com    ,             , Popsi         , Yes      , 2022-01-30
+ 81, Dhruv.Villarreal@example.com   , 931-559-3083, RedCow        , No       , 2023-08-22
+ 82, Lucas.Mcdowell@example.com     ,             , Dovee         , No       , 2023-04-12
+ 83, Juliet.Gordon@example.com      ,             , Krafty Cheddar, No       , 2023-05-14
+ 84, Everett.Fitzpatrick@example.com,             , Oreoz         , Yes      , 2023-02-23
+ 85,                                , 130-936-8674, Dovee         , No       , 2023-08-31
+ 86, Kara.Shelton@example.com       ,             , Flixnet       , No       , 2023-08-19
+ 87, Marnie.Mayo@example.com        ,             , Oreoz         , Yes      , 2022-06-20
+ 88, Traci.Banks@example.com        , 313-374-6903, KittyKat      , No       , 2022-11-20
+ 89,                                , 441-847-1955, Oreoz         , Yes      , 2022-03-24
+ 90, Craig.Mcknight@example.com     , 634-813-9351, Oreoz         , Yes      , 2022-10-09
+ 91, Safaa.Lopez@example.com        , 863-714-5286, Colgatex      , No       , 2022-07-09
+ 92, Aoife.Davidson@example.com     , 628-333-9139, RedCow        , Yes      , 2023-09-05
+ 93, Tiago.Dunn@example.com         , 728-796-4352, Colgatex      , Yes      , 2022-09-21
+ 94,                                , 795-682-8733, Krafty Cheddar, Yes      , 2022-05-11
+ 95, Jim.Moses@example.com          , 560-446-1279, Popsi         , Yes      , 2022-12-24
+ 96, Arjun.Dejesus@example.com      , 693-790-8692, Dovee         , No       , 2023-02-14
+ 97,                                , 363-441-2226, Popsi         , No       , 2024-03-30
+ 98,                                , 937-172-2269, Krafty Cheddar, No       , 2024-01-04
+ 99, Montgomery.Davila@example.com  ,             , Krafty Cheddar, No       , 2022-06-04
+100, Katrina.Foster@example.com     , 497-544-5065, Coca-Splash   , No       , 2023-05-08
+101,                                , 396-900-5179, Oreoz         , No       , 2022-01-11
+102,                                , 686-123-8571, Coca-Splash   , Yes      , 2024-01-29
+103, Fraser.Hooper@example.com      , 228-636-9031, Oreoz         , No       , 2022-10-09
+104, Alejandro.Kent@example.com     ,             , GatorBoost    , Yes      , 2022-10-20
+105, fey_kuser@example.com          ,             , Oreoz         , Yes      , 2023-10-01
+106, Lawson.Levine@example.com      , 785-936-5286, GatorBoost    , No       , 2023-11-27
+107,                                , 667-391-6777, Flixnet       , No       , 2023-08-12
+108,                                , 194-769-6265, KittyKat      , No       , 2022-09-05
+109,                                , 804-245-1465, Popsi         , No       , 2023-01-04
+110, fey_kuser@example.com          ,             , GatorBoost    , Yes      , 2023-07-29
+111,                                , 574-869-4715, GatorBoost    , No       , 2022-02-12
+112, Isobelle.Davidson@example.com  ,             , Popsi         , Yes      , 2023-04-06
+113, Faizan.Hill@example.com        , 572-649-5353, RedCow        , No       , 2022-09-13
+114, Orlando.Pitts@example.com      ,             , RedCow        , Yes      , 2023-11-05
+115,                                , 178-910-8863, Coca-Splash   , No       , 2023-08-12
+116, fey_kuser@example.com          ,             , Popsi         , Yes      , 2023-06-20
+117, Katrina.Foster@example.com     , 497-544-5065, KittyKat      , No       , 2023-10-26
+118, Khadija.Dunlap@example.com     ,             , GatorBoost    , Yes      , 2024-03-30
+119, Nora.Donaldson@example.com     , 414-618-5713, Colgatex      , Yes      , 2022-10-13
+120,                                , 549-515-6738, Oreoz         , Yes      , 2022-05-15
+121,                                , 705-521-6039, RedCow        , Yes      , 2024-03-25
+122, Larissa.Perez@example.com      , 742-168-6071, Colgatex      , No       , 2022-04-26
+123,                                , 488-382-1416, Oreoz         , No       , 2022-08-12
+124,                                , 929-575-4315, Coca-Splash   , Yes      , 2023-01-12
+125,                                , 868-828-4315, GatorBoost    , No       , 2023-03-09
+126,                                , 335-679-5225, Flixnet       , No       , 2022-12-31
+127, Carter.Coleman@example.com     ,             , Coca-Splash   , Yes      , 2022-02-17
+128, Hafsah.Booker@example.com      ,             , Dovee         , No       , 2022-11-04
+129, William.Franco@example.com     ,             , GatorBoost    , No       , 2024-04-18
+130,                                , 586-280-9496, KittyKat      , No       , 2023-01-08
+131,                                , 190-234-9749, Dovee         , Yes      , 2024-01-26
+132, Astrid.Delgado@example.com     , 641-317-3741, Popsi         , No       , 2022-08-22
+133, Darcey.Robles@example.com      ,             , Colgatex      , Yes      , 2023-09-30
+134, Everly.Key@example.com         , 152-557-5017, GatorBoost    , No       , 2023-07-06
+135,                                , 406-161-3681, Colgatex      , No       , 2022-03-30
+136, Polly.Reyes@example.com        , 296-740-3450, GatorBoost    , No       , 2023-06-02
+137,                                , 301-750-7631, GatorBoost    , No       , 2023-09-30
+138, Brenda.Deleon@example.com      , 997-981-2043, Flixnet       , No       , 2024-03-02
+139, Rishi.Barron@example.com       , 331-128-4346, Popsi         , No       , 2022-03-20
+140, Kamal.Gates@example.com        ,             , Oreoz         , No       , 2022-09-09
+141, Bruno.Noble@example.com        ,             , Flixnet       , No       , 2024-01-01
+142,                                , 270-525-3291, GatorBoost    , Yes      , 2022-12-03
+143,                                , 673-424-3380, GatorBoost    , No       , 2023-02-11
+144, Danny.Knapp@example.com        , 665-657-4948, Coca-Splash   , No       , 2022-07-15
+145, Alessandro.French@example.com  , 216-516-1958, Popsi         , Yes      , 2024-03-20
+146,                                , 542-618-4471, KittyKat      , No       , 2023-09-02
+147, Jean.Winters@example.com       , 526-938-2752, KittyKat      , Yes      , 2023-01-12
+148,                                , 114-507-5478, Coca-Splash   , Yes      , 2023-01-03
+149, Harvey.Guerrero@example.com    ,             , Popsi         , Yes      , 2023-05-29
+150, Amir.Clark@example.com         , 924-287-4068, Krafty Cheddar, No       , 2022-04-10
+151, Macie.Payne@example.com        , 782-737-6408, KittyKat      , No       , 2022-04-23
+152, Mark.Friedman@example.com      , 111-862-3502, Flixnet       , No       , 2024-04-07
+153, Angela.Mcmillan@example.com    ,             , Flixnet       , No       , 2022-12-15
+154, Nikhil.Peck@example.com        , 395-769-3300, RedCow        , No       , 2023-07-10
+155, Caleb.Obrien@example.com       , 223-387-1014, Krafty Cheddar, Yes      , 2023-06-08
+156,                                , 490-977-4025, Oreoz         , Yes      , 2022-05-29
+157,                                , 978-659-7286, Dovee         , Yes      , 2022-02-01
+158, Felicity.Tran@example.com      ,             , Flixnet       , Yes      , 2023-02-03
+159, fey_kuser@example.com          ,             , Oreoz         , Yes      , 2023-09-23
+160, Junior.Schwartz@example.com    ,             , Coca-Splash   , No       , 2023-02-01
+161, Alina.Walls@example.com        ,             , Oreoz         , No       , 2024-01-22
+162, Kyran.Duncan@example.com       ,             , Oreoz         , Yes      , 2022-12-05
+163,                                , 276-319-4768, Dovee         , Yes      , 2022-12-02
+164, Mitchell.Murray@example.com    ,             , Dovee         , Yes      , 2023-08-14
+165,                                , 497-544-5065, Dovee         , Yes      , 2022-04-30
+166, Saoirse.Keller@example.com     , 699-966-4749, GatorBoost    , Yes      , 2022-04-18
+167, Bradley.Butler@example.com     ,             , RedCow        , Yes      , 2024-04-19
+168, Herman.Knowles@example.com     ,             , Colgatex      , No       , 2024-04-30
+169, Mateo.Francis@example.com      , 508-390-8347, Dovee         , Yes      , 2022-03-08
+170, Gabriela.Norton@example.com    , 138-968-6467, Dovee         , No       , 2023-02-09
+171, Miriam.Pacheco@example.com     , 401-464-5796, Krafty Cheddar, Yes      , 2023-12-16
+172,                                , 717-961-9368, RedCow        , No       , 2022-09-22
+173,                                , 125-993-7660, Dovee         , No       , 2023-07-23
+174, Rajan.Dickson@example.com      ,             , Popsi         , Yes      , 2022-07-21
+175,                                , 492-337-4468, Flixnet       , Yes      , 2023-09-07
+176,                                , 530-539-9474, GatorBoost    , Yes      , 2023-02-04
+177, Wade.Hancock@example.com       , 245-455-9119, Popsi         , No       , 2024-04-14
+178,                                , 901-513-9962, Colgatex      , No       , 2022-10-08
+179, fey_kuser@example.com          ,             , Flixnet       , Yes      , 2023-12-31
+180, Emre.Everett@example.com       ,             , Dovee         , No       , 2023-10-26
+181, Jean.Winters@example.com       ,             , Popsi         , Yes      , 2023-01-05
+182, Tomasz.Baker@example.com       ,             , Oreoz         , No       , 2023-09-08
+183,                                , 137-365-6816, Dovee         , Yes      , 2024-04-10
+184, Owen.Michael@example.com       ,             , Oreoz         , No       , 2024-04-17
+185,                                , 916-879-3164, Oreoz         , No       , 2023-12-28
+186, Brooke.Barron@example.com      , 715-588-5341, Colgatex      , No       , 2022-09-10
+187, fey_kuser@example.com          ,             , Krafty Cheddar, Yes      , 2023-08-16
+188, Alana.Koch@example.com         , 576-828-7913, Coca-Splash   , No       , 2023-04-03
+189, Liana.Baldwin@example.com      ,             , Krafty Cheddar, Yes      , 2024-04-23
+190, Ahmad.Castro@example.com       ,             , Popsi         , Yes      , 2022-03-26
+191, Marissa.Hayes@example.com      , 365-359-3043, Oreoz         , No       , 2022-12-15
+192, fey_kuser@example.com          ,             , Colgatex      , Yes      , 2023-04-11
+193,                                , 525-796-7991, GatorBoost    , Yes      , 2023-05-16
+194,                                , 629-875-4423, GatorBoost    , No       , 2023-12-25
+195, Trinity.Mora@example.com       ,             , KittyKat      , No       , 2024-04-17
+196, Nancy.Blair@example.com        , 434-174-7916, GatorBoost    , No       , 2022-07-08
+197, Phoebe.Rodriguez@example.com   ,             , GatorBoost    , No       , 2023-06-15
+198, Ann.John@example.com           , 814-362-6094, RedCow        , Yes      , 2023-11-19
+199, David.Bridges@example.com      ,             , RedCow        , No       , 2023-09-10
+200, Bibi.Roberts@example.com       ,             , Krafty Cheddar, Yes      , 2023-05-23
+201,                                , 500-251-7080, Krafty Cheddar, No       , 2023-02-04
+202, Kaine.Blankenship@example.com  , 294-274-7917, RedCow        , Yes      , 2023-09-18
+203, Brooklyn.Fowler@example.com    ,             , Oreoz         , Yes      , 2023-08-08
+204, fey_kuser@example.com          ,             , Oreoz         , Yes      , 2024-03-20
+205, Neil.Haynes@example.com        , 421-219-5363, Coca-Splash   , Yes      , 2022-03-10
+206, Tiana.Decker@example.com       ,             , RedCow        , No       , 2024-01-30
+207, Tristan.Valdez@example.com     ,             , Dovee         , Yes      , 2022-04-12
+208, Kendra.Francis@example.com     ,             , Oreoz         , Yes      , 2022-04-23
+209,                                , 916-879-3164, GatorBoost    , Yes      , 2023-09-13
+210, Ammar.Floyd@example.com        ,             , Dovee         , Yes      , 2022-06-10
+211, Polly.Reyes@example.com        , 296-740-3450, KittyKat      , No       , 2023-01-03
+212, Anais.Ball@example.com         ,             , Dovee         , Yes      , 2024-01-01
+200, Dean.Lewis@example.com         , 243-955-3782, Flixnet       , Yes      , 2023-01-15
+201, Inaaya.Velasquez@example.com   , 489-241-7631, Flixnet       , Yes      , 2023-01-22
+202, Tasnim.Cobb@example.com        , 262-380-8877, Flixnet       , Yes      , 2023-02-05
+203, Asa.Vazquez@example.com        , 504-421-4485, Flixnet       , No       , 2023-07-10
+204, Keith.Donovan@example.com      , 549-515-6738, Flixnet       , No       , 2023-07-18
+205, Moshe.Colon@example.com        , 131-622-5442, Flixnet       , No       , 2023-08-03
+206, Harvey.Guerrero@example.com    , 597-677-6862, Coca-Splash   , Yes      , 2022-06-15
+207, Dean.Lewis@example.com         , 243-955-3782, Coca-Splash   , Yes      , 2022-06-22
+208, Inaaya.Velasquez@example.com   , 489-241-7631, Coca-Splash   , Yes      , 2022-07-01
+209, Tasnim.Cobb@example.com        , 262-380-8877, Coca-Splash   , No       , 2022-12-12
+210, Asa.Vazquez@example.com        , 504-421-4485, Coca-Splash   , No       , 2022-12-18
+211, Keith.Donovan@example.com      , 549-515-6738, Coca-Splash   , No       , 2022-12-27
+212, Carmen.Burton@example.com      , 527-368-7429, KittyKat      , Yes      , 2023-04-10
+213, Donald.Stone@example.com       , 730-260-4630, KittyKat      , Yes      , 2023-04-15
+214, Isabelle.Lopez@example.com     , 981-878-3234, KittyKat      , Yes      , 2023-04-22
+215, Julius.Garrett@example.com     , 866-664-7969, KittyKat      , No       , 2023-09-05
+216, Dafydd.Preston@example.com     , 368-987-3267, KittyKat      , No       , 2023-09-12
+217, Stephanie.Rice@example.com     , 830-901-9870, KittyKat      , No       , 2023-10-03
+218, Bradley.Butler@example.com     , 937-172-2269, RedCow        , Yes      , 2022-03-10
+219, Louise.Daniel@example.com      , 917-348-4728, RedCow        , Yes      , 2022-04-05
+220, Livia.Howe@example.com         , 868-828-4315, RedCow        , Yes      , 2022-03-18
+221, Lili.Schroeder@example.com     , 640-348-2128, RedCow        , No       , 2022-08-22
+222, Jeremiah.Martin@example.com    , 277-350-5557, RedCow        , No       , 2022-09-08
+223, Keyaan.Holland@example.com     , 845-797-2979, RedCow        , No       , 2022-09-15

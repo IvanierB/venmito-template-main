@@ -1,0 +1,3486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transactions>
+    <transaction id="1">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>245-506-5389</phone>
+        <store>PetPals Mart</store>
+        <date>2024-04-12</date>
+    </transaction>
+    <transaction id="2">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>796-816-9963</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-11-01</date>
+    </transaction>
+    <transaction id="3">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>507-883-4629</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-02-15</date>
+    </transaction>
+    <transaction id="4">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>504-112-5228</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-05-23</date>
+    </transaction>
+    <transaction id="5">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>699-966-4749</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-05-15</date>
+    </transaction>
+    <transaction id="6">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>368-154-2650</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-08-25</date>
+    </transaction>
+    <transaction id="7">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>778-566-2709</phone>
+        <store>Trader Tales</store>
+        <date>2022-07-05</date>
+    </transaction>
+    <transaction id="8">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-08-17</date>
+    </transaction>
+    <transaction id="9">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Coca-Splash</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>481-405-7265</phone>
+        <store>Trader Tales</store>
+        <date>2022-07-31</date>
+    </transaction>
+    <transaction id="10">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-07-30</date>
+    </transaction>
+    <transaction id="11">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>743-908-5464</phone>
+        <store>SparkMart</store>
+        <date>2022-12-11</date>
+    </transaction>
+    <transaction id="12">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>194-235-2353</phone>
+        <store>Trader Tales</store>
+        <date>2022-06-20</date>
+    </transaction>
+    <transaction id="13">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>228-202-6360</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-10-03</date>
+    </transaction>
+    <transaction id="14">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>264-319-7312</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-07-01</date>
+    </transaction>
+    <transaction id="15">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>20</price>
+                <price_per_item>10</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>148-739-3707</phone>
+        <store>PetPals Mart</store>
+        <date>2023-04-27</date>
+    </transaction>
+    <transaction id="16">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>617-226-9486</phone>
+        <store>PetPals Mart</store>
+        <date>2023-01-09</date>
+    </transaction>
+    <transaction id="17">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>839-124-9420</phone>
+        <store>SparkMart</store>
+        <date>2022-02-23</date>
+    </transaction>
+    <transaction id="18">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>645-829-7495</phone>
+        <store>Trader Tales</store>
+        <date>2022-09-04</date>
+    </transaction>
+    <transaction id="19">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-10-02</date>
+    </transaction>
+    <transaction id="20">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>652-272-9539</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-03-19</date>
+    </transaction>
+    <transaction id="21">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>531-380-1711</phone>
+        <store>PetPals Mart</store>
+        <date>2023-04-28</date>
+    </transaction>
+    <transaction id="22">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>444-295-8051</phone>
+        <store>Trader Tales</store>
+        <date>2023-06-26</date>
+    </transaction>
+    <transaction id="23">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>515-268-3667</phone>
+        <store>PetPals Mart</store>
+        <date>2023-05-02</date>
+    </transaction>
+    <transaction id="24">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>271-604-3446</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-04-21</date>
+    </transaction>
+    <transaction id="25">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2024-01-01</date>
+    </transaction>
+    <transaction id="26">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>561-761-7547</phone>
+        <store>Trader Tales</store>
+        <date>2022-06-27</date>
+    </transaction>
+    <transaction id="27">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>22</price>
+                <price_per_item>11</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>659-190-9378</phone>
+        <store>Trader Tales</store>
+        <date>2023-08-20</date>
+    </transaction>
+    <transaction id="28">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>782-806-6417</phone>
+        <store>PetPals Mart</store>
+        <date>2022-03-27</date>
+    </transaction>
+    <transaction id="29">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>22</price>
+                <price_per_item>11</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>640-390-3390</phone>
+        <store>Trader Tales</store>
+        <date>2022-03-27</date>
+    </transaction>
+    <transaction id="30">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>392-468-4297</phone>
+        <store>Trader Tales</store>
+        <date>2022-11-27</date>
+    </transaction>
+    <transaction id="31">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>344-278-2013</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-04-16</date>
+    </transaction>
+    <transaction id="32">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>30</price>
+                <price_per_item>10</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>891-887-3513</phone>
+        <store>PetPals Mart</store>
+        <date>2023-12-28</date>
+    </transaction>
+    <transaction id="33">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>247-523-1403</phone>
+        <store>PetPals Mart</store>
+        <date>2022-08-05</date>
+    </transaction>
+    <transaction id="34">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>12</price>
+                <price_per_item>12</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>752-347-2146</phone>
+        <store>SparkMart</store>
+        <date>2024-03-08</date>
+    </transaction>
+    <transaction id="35">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>791-853-6464</phone>
+        <store>PetPals Mart</store>
+        <date>2023-10-17</date>
+    </transaction>
+    <transaction id="36">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>530-539-9474</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-02-19</date>
+    </transaction>
+    <transaction id="37">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>924-146-4189</phone>
+        <store>PetPals Mart</store>
+        <date>2023-08-27</date>
+    </transaction>
+    <transaction id="38">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>563-494-9026</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-10-24</date>
+    </transaction>
+    <transaction id="39">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>33</price>
+                <price_per_item>11</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>728-796-4352</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-10-02</date>
+    </transaction>
+    <transaction id="40">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>270-914-6681</phone>
+        <store>PetPals Mart</store>
+        <date>2022-03-02</date>
+    </transaction>
+    <transaction id="41">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>336-283-3896</phone>
+        <store>Trader Tales</store>
+        <date>2022-06-18</date>
+    </transaction>
+    <transaction id="42">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>505-476-1251</phone>
+        <store>PetPals Mart</store>
+        <date>2023-09-02</date>
+    </transaction>
+    <transaction id="43">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>512-600-6692</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-04-17</date>
+    </transaction>
+    <transaction id="44">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>553-407-1049</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-04-17</date>
+    </transaction>
+    <transaction id="45">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>30</price>
+                <price_per_item>10</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>742-395-8995</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-02-02</date>
+    </transaction>
+    <transaction id="46">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>805-146-4773</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-04-18</date>
+    </transaction>
+    <transaction id="47">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>20</price>
+                <price_per_item>10</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>402-586-5192</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-10-08</date>
+    </transaction>
+    <transaction id="48">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>315-892-7127</phone>
+        <store>PetPals Mart</store>
+        <date>2023-02-17</date>
+    </transaction>
+    <transaction id="49">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>159-573-6793</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-10-15</date>
+    </transaction>
+    <transaction id="50">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>20</price>
+                <price_per_item>10</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>934-954-3387</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-03-22</date>
+    </transaction>
+    <transaction id="51">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>233-159-4158</phone>
+        <store>Trader Tales</store>
+        <date>2022-09-10</date>
+    </transaction>
+    <transaction id="52">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>507-766-7432</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-06-19</date>
+    </transaction>
+    <transaction id="53">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>478-814-3941</phone>
+        <store>Trader Tales</store>
+        <date>2023-12-28</date>
+    </transaction>
+    <transaction id="54">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>705-890-7715</phone>
+        <store>PetPals Mart</store>
+        <date>2023-12-13</date>
+    </transaction>
+    <transaction id="55">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>878-870-9506</phone>
+        <store>Trader Tales</store>
+        <date>2022-05-12</date>
+    </transaction>
+    <transaction id="56">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-09-24</date>
+    </transaction>
+    <transaction id="57">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>742-395-8995</phone>
+        <store>Trader Tales</store>
+        <date>2022-07-07</date>
+    </transaction>
+    <transaction id="58">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>549-750-2047</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-09-06</date>
+    </transaction>
+    <transaction id="59">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>362-464-9875</phone>
+        <store>Trader Tales</store>
+        <date>2023-06-11</date>
+    </transaction>
+    <transaction id="60">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>551-867-4367</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-04-24</date>
+    </transaction>
+    <transaction id="61">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>114-507-5478</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-01-26</date>
+    </transaction>
+    <transaction id="62">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>124-533-2523</phone>
+        <store>SparkMart</store>
+        <date>2022-11-17</date>
+    </transaction>
+    <transaction id="63">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>553-407-1049</phone>
+        <store>PetPals Mart</store>
+        <date>2023-11-19</date>
+    </transaction>
+    <transaction id="64">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>663-149-3581</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-02-28</date>
+    </transaction>
+    <transaction id="65">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>312-891-9587</phone>
+        <store>Trader Tales</store>
+        <date>2022-02-09</date>
+    </transaction>
+    <transaction id="66">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>547-388-2503</phone>
+        <store>Trader Tales</store>
+        <date>2023-02-18</date>
+    </transaction>
+    <transaction id="67">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>489-241-7631</phone>
+        <store>PetPals Mart</store>
+        <date>2023-06-02</date>
+    </transaction>
+    <transaction id="68">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>849-570-8792</phone>
+        <store>PetPals Mart</store>
+        <date>2022-12-10</date>
+    </transaction>
+    <transaction id="69">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>915-320-3214</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-11-04</date>
+    </transaction>
+    <transaction id="70">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>480-560-1876</phone>
+        <store>Trader Tales</store>
+        <date>2022-04-13</date>
+    </transaction>
+    <transaction id="71">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>429-916-1662</phone>
+        <store>PetPals Mart</store>
+        <date>2023-12-24</date>
+    </transaction>
+    <transaction id="72">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>145-501-4975</phone>
+        <store>SparkMart</store>
+        <date>2022-09-22</date>
+    </transaction>
+    <transaction id="73">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>919-925-5280</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-02-22</date>
+    </transaction>
+    <transaction id="74">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>553-482-8315</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-07-27</date>
+    </transaction>
+    <transaction id="75">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>725-427-2794</phone>
+        <store>PetPals Mart</store>
+        <date>2023-03-15</date>
+    </transaction>
+    <transaction id="76">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>659-190-9378</phone>
+        <store>Trader Tales</store>
+        <date>2023-05-28</date>
+    </transaction>
+    <transaction id="77">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>558-134-7531</phone>
+        <store>Trader Tales</store>
+        <date>2023-04-29</date>
+    </transaction>
+    <transaction id="78">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>20</price>
+                <price_per_item>10</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>738-911-3567</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-04-28</date>
+    </transaction>
+    <transaction id="79">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>530-539-9474</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-04-14</date>
+    </transaction>
+    <transaction id="80">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>993-541-7464</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-08-14</date>
+    </transaction>
+    <transaction id="81">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>312-891-9587</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-02-01</date>
+    </transaction>
+    <transaction id="82">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>776-243-3725</phone>
+        <store>Trader Tales</store>
+        <date>2023-03-31</date>
+    </transaction>
+    <transaction id="83">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>116-866-3838</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-03-14</date>
+    </transaction>
+    <transaction id="84">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>583-114-3994</phone>
+        <store>BestChoice Buy</store>
+        <date>2024-01-01</date>
+    </transaction>
+    <transaction id="85">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>137-491-6519</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-02-10</date>
+    </transaction>
+    <transaction id="86">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>107-156-5064</phone>
+        <store>PetPals Mart</store>
+        <date>2023-08-29</date>
+    </transaction>
+    <transaction id="87">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>598-173-8153</phone>
+        <store>Trader Tales</store>
+        <date>2023-04-09</date>
+    </transaction>
+    <transaction id="88">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>313-206-2033</phone>
+        <store>BestChoice Buy</store>
+        <date>2024-01-21</date>
+    </transaction>
+    <transaction id="89">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>891-887-3513</phone>
+        <store>PetPals Mart</store>
+        <date>2023-02-16</date>
+    </transaction>
+    <transaction id="90">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>520-305-7264</phone>
+        <store>Trader Tales</store>
+        <date>2023-03-08</date>
+    </transaction>
+    <transaction id="91">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>173-881-1582</phone>
+        <store>Trader Tales</store>
+        <date>2022-11-12</date>
+    </transaction>
+    <transaction id="92">
+        <items>
+            <item>
+                <item>Coca-Splash</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>953-386-1321</phone>
+        <store>PetPals Mart</store>
+        <date>2022-10-04</date>
+    </transaction>
+    <transaction id="93">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>12</price>
+                <price_per_item>12</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>101-165-2021</phone>
+        <store>SparkMart</store>
+        <date>2022-05-26</date>
+    </transaction>
+    <transaction id="94">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>237-295-4490</phone>
+        <store>Trader Tales</store>
+        <date>2023-04-18</date>
+    </transaction>
+    <transaction id="95">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>852-236-4050</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-04-17</date>
+    </transaction>
+    <transaction id="96">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>111-862-3502</phone>
+        <store>PetPals Mart</store>
+        <date>2024-04-15</date>
+    </transaction>
+    <transaction id="97">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>946-447-2454</phone>
+        <store>PetPals Mart</store>
+        <date>2023-09-19</date>
+    </transaction>
+    <transaction id="98">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>558-608-9550</phone>
+        <store>Trader Tales</store>
+        <date>2023-01-11</date>
+    </transaction>
+    <transaction id="99">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>416-776-3422</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-02-05</date>
+    </transaction>
+    <transaction id="100">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>24</price>
+                <price_per_item>12</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>645-829-7495</phone>
+        <store>SparkMart</store>
+        <date>2023-03-02</date>
+    </transaction>
+    <transaction id="101">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2024-01-22</date>
+    </transaction>
+    <transaction id="102">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>1</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>139-396-1336</phone>
+        <store>PetPals Mart</store>
+        <date>2022-08-10</date>
+    </transaction>
+    <transaction id="103">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>724-444-3001</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-11-02</date>
+    </transaction>
+    <transaction id="104">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>782-806-6417</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-05-23</date>
+    </transaction>
+    <transaction id="105">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>334-436-6254</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-03-12</date>
+    </transaction>
+    <transaction id="106">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>573-696-6671</phone>
+        <store>Trader Tales</store>
+        <date>2023-12-04</date>
+    </transaction>
+    <transaction id="107">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>372-218-6551</phone>
+        <store>BestChoice Buy</store>
+        <date>2024-02-14</date>
+    </transaction>
+    <transaction id="108">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>6</price>
+                <price_per_item>2</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>390-911-6534</phone>
+        <store>BestChoice Buy</store>
+        <date>2024-01-08</date>
+    </transaction>
+    <transaction id="109">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>1</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>424-390-3432</phone>
+        <store>PetPals Mart</store>
+        <date>2022-05-01</date>
+    </transaction>
+    <transaction id="110">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>811-806-5304</phone>
+        <store>Trader Tales</store>
+        <date>2022-11-21</date>
+    </transaction>
+    <transaction id="111">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>516-779-4464</phone>
+        <store>Trader Tales</store>
+        <date>2023-07-12</date>
+    </transaction>
+    <transaction id="112">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>805-146-4773</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-05-14</date>
+    </transaction>
+    <transaction id="113">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>727-709-3351</phone>
+        <store>BestChoice Buy</store>
+        <date>2024-03-18</date>
+    </transaction>
+    <transaction id="114">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>544-944-1609</phone>
+        <store>PetPals Mart</store>
+        <date>2024-04-09</date>
+    </transaction>
+    <transaction id="115">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>821-675-4190</phone>
+        <store>SparkMart</store>
+        <date>2024-04-30</date>
+    </transaction>
+    <transaction id="116">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>202-632-2346</phone>
+        <store>Trader Tales</store>
+        <date>2024-04-28</date>
+    </transaction>
+    <transaction id="117">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>950-639-9777</phone>
+        <store>PetPals Mart</store>
+        <date>2022-05-29</date>
+    </transaction>
+    <transaction id="118">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>629-807-5687</phone>
+        <store>PetPals Mart</store>
+        <date>2022-04-06</date>
+    </transaction>
+    <transaction id="119">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>11</price>
+                <price_per_item>11</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>634-813-9351</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-10-23</date>
+    </transaction>
+    <transaction id="120">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2024-02-07</date>
+    </transaction>
+    <transaction id="121">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>615-102-4849</phone>
+        <store>PetPals Mart</store>
+        <date>2022-06-04</date>
+    </transaction>
+    <transaction id="122">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>271-963-2123</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-09-09</date>
+    </transaction>
+    <transaction id="123">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>1</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>582-574-4299</phone>
+        <store>PetPals Mart</store>
+        <date>2023-03-29</date>
+    </transaction>
+    <transaction id="124">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>866-155-1011</phone>
+        <store>PetPals Mart</store>
+        <date>2022-03-14</date>
+    </transaction>
+    <transaction id="125">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-11-15</date>
+    </transaction>
+    <transaction id="126">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>627-954-8991</phone>
+        <store>Targeted Treasures</store>
+        <date>2023-12-10</date>
+    </transaction>
+    <transaction id="127">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>500-251-7080</phone>
+        <store>Trader Tales</store>
+        <date>2023-02-24</date>
+    </transaction>
+    <transaction id="128">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>936-522-1085</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-08-31</date>
+    </transaction>
+    <transaction id="129">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>1</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>326-267-7811</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-03-27</date>
+    </transaction>
+    <transaction id="130">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>273-616-5739</phone>
+        <store>SparkMart</store>
+        <date>2022-04-15</date>
+    </transaction>
+    <transaction id="131">
+        <items>
+            <item>
+                <item>Coca-Splash</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-05-21</date>
+    </transaction>
+    <transaction id="132">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>323-234-9528</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-04-01</date>
+    </transaction>
+    <transaction id="133">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>12</price>
+                <price_per_item>6</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>196-551-2162</phone>
+        <store>SparkMart</store>
+        <date>2022-05-21</date>
+    </transaction>
+    <transaction id="134">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-06-21</date>
+    </transaction>
+    <transaction id="135">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>9</price>
+                <price_per_item>3</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>1</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>441-847-1955</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-04-06</date>
+    </transaction>
+    <transaction id="136">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>220-102-3684</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-12-01</date>
+    </transaction>
+    <transaction id="137">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>778-172-1502</phone>
+        <store>Trader Tales</store>
+        <date>2024-04-17</date>
+    </transaction>
+    <transaction id="138">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>558-608-9550</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-04-24</date>
+    </transaction>
+    <transaction id="139">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2023-04-12</date>
+    </transaction>
+    <transaction id="140">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>545-458-1679</phone>
+        <store>Trader Tales</store>
+        <date>2022-12-15</date>
+    </transaction>
+    <transaction id="141">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>247-523-1403</phone>
+        <store>SparkMart</store>
+        <date>2022-03-17</date>
+    </transaction>
+    <transaction id="142">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>3</price>
+                <price_per_item>1</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>795-682-8733</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-06-02</date>
+    </transaction>
+    <transaction id="143">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>12</price>
+                <price_per_item>12</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>227-737-8739</phone>
+        <store>SparkMart</store>
+        <date>2023-04-15</date>
+    </transaction>
+    <transaction id="144">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>220-296-3772</phone>
+        <store>PetPals Mart</store>
+        <date>2023-01-07</date>
+    </transaction>
+    <transaction id="145">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>883-481-7339</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-03-08</date>
+    </transaction>
+    <transaction id="146">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>918-588-9531</phone>
+        <store>Trader Tales</store>
+        <date>2024-04-28</date>
+    </transaction>
+    <transaction id="147">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>531-709-2553</phone>
+        <store>Trader Tales</store>
+        <date>2022-01-22</date>
+    </transaction>
+    <transaction id="148">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>999-999-9999</phone>
+        <store>Trader Tales</store>
+        <date>2024-03-21</date>
+    </transaction>
+    <transaction id="149">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>782-806-6417</phone>
+        <store>PetPals Mart</store>
+        <date>2022-09-21</date>
+    </transaction>
+    <transaction id="150">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>964-448-9785</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-01-26</date>
+    </transaction>
+    <transaction id="151">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>20</price>
+                <price_per_item>10</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>254-627-7406</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-02-20</date>
+    </transaction>
+    <transaction id="152">
+        <items>
+            <item>
+                <item>Colgatex</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>731-730-2543</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-11-28</date>
+    </transaction>
+    <transaction id="153">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>520-550-1148</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-05-13</date>
+    </transaction>
+    <transaction id="154">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>10</price>
+                <price_per_item>5</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>626-458-8110</phone>
+        <store>Targeted Treasures</store>
+        <date>2023-09-08</date>
+    </transaction>
+    <transaction id="155">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>30</price>
+                <price_per_item>10</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>626-458-8110</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-07-31</date>
+    </transaction>
+    <transaction id="156">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>4</price>
+                <price_per_item>4</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>723-357-7363</phone>
+        <store>Trader Tales</store>
+        <date>2023-12-13</date>
+    </transaction>
+    <transaction id="157">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>6</price>
+                <price_per_item>6</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>15</price>
+                <price_per_item>5</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>549-515-6738</phone>
+        <store>SparkMart</store>
+        <date>2022-06-10</date>
+    </transaction>
+    <transaction id="158">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>1</price>
+                <price_per_item>1</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>958-724-3846</phone>
+        <store>PetPals Mart</store>
+        <date>2022-08-18</date>
+    </transaction>
+    <transaction id="159">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>743-908-5464</phone>
+        <store>PetPals Mart</store>
+        <date>2022-03-01</date>
+    </transaction>
+    <transaction id="160">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>3</price>
+                <price_per_item>3</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>294-365-8364</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2024-01-08</date>
+    </transaction>
+    <transaction id="161">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>4</price>
+                <price_per_item>2</price_per_item>
+                <quantity>2</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>2</price>
+                <price_per_item>2</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>441-847-1955</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-08-02</date>
+    </transaction>
+    <transaction id="162">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>5</price>
+                <price_per_item>5</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Dovee</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>313-206-2033</phone>
+        <store>Targeted Treasures</store>
+        <date>2022-04-12</date>
+    </transaction>
+    <transaction id="3000">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>25</price>
+                <price_per_item>25</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>KittyKat</item>
+                <price>12</price>
+                <price_per_item>3</price_per_item>
+                <quantity>4</quantity>
+            </item>
+            <item>
+                <item>Coca-Splash</item>
+                <price>18</price>
+                <price_per_item>3</price_per_item>
+                <quantity>6</quantity>
+            </item>
+        </items>
+        <phone>492-337-4468</phone>
+        <store>SparkMart</store>
+        <date>2022-12-20</date>
+    </transaction>
+    <transaction id="3001">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>24</price>
+                <price_per_item>4</price_per_item>
+                <quantity>6</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>15</price>
+                <price_per_item>3</price_per_item>
+                <quantity>5</quantity>
+            </item>
+        </items>
+        <phone>868-828-4315</phone>
+        <store>Trader Tales</store>
+        <date>2022-12-22</date>
+    </transaction>
+    <transaction id="3002">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>36</price>
+                <price_per_item>3</price_per_item>
+                <quantity>12</quantity>
+            </item>
+            <item>
+                <item>Colgatex</item>
+                <price>30</price>
+                <price_per_item>6</price_per_item>
+                <quantity>5</quantity>
+            </item>
+        </items>
+        <phone>699-966-4749</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-12-23</date>
+    </transaction>
+    <transaction id="3003">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>30</price>
+                <price_per_item>30</price_per_item>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>25</price>
+                <price_per_item>5</price_per_item>
+                <quantity>5</quantity>
+            </item>
+        </items>
+        <phone>570-105-4278</phone>
+        <store>SparkMart</store>
+        <date>2022-12-24</date>
+    </transaction>
+    <transaction id="3004">
+        <items>
+            <item>
+                <item>KittyKat</item>
+                <price>20</price>
+                <price_per_item>2</price_per_item>
+                <quantity>10</quantity>
+            </item>
+            <item>
+                <item>RedCow</item>
+                <price>48</price>
+                <price_per_item>4</price_per_item>
+                <quantity>12</quantity>
+            </item>
+        </items>
+        <phone>414-618-5713</phone>
+        <store>PetPals Mart</store>
+        <date>2023-12-15</date>
+    </transaction>
+    <transaction id="3005">
+        <items>
+            <item>
+                <item>Coca-Splash</item>
+                <price>24</price>
+                <price_per_item>3</price_per_item>
+                <quantity>8</quantity>
+            </item>
+            <item>
+                <item>Oreoz</item>
+                <price>15</price>
+                <price_per_item>3</price_per_item>
+                <quantity>5</quantity>
+            </item>
+        </items>
+        <phone>331-128-4346</phone>
+        <store>Trader Tales</store>
+        <date>2023-12-18</date>
+    </transaction>
+    <transaction id="3006">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>21</price>
+                <price_per_item>3</price_per_item>
+                <quantity>7</quantity>
+            </item>
+        </items>
+        <phone>673-651-6332</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-12-23</date>
+    </transaction>
+    <transaction id="3007">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>40</price>
+                <price_per_item>5</price_per_item>
+                <quantity>8</quantity>
+            </item>
+        </items>
+        <phone>917-866-8131</phone>
+        <store>Trader Tales</store>
+        <date>2023-07-10</date>
+    </transaction>
+    <transaction id="3008">
+        <items>
+            <item>
+                <item>Popsi</item>
+                <price>30</price>
+                <price_per_item>3</price_per_item>
+                <quantity>10</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>18</price>
+                <price_per_item>3</price_per_item>
+                <quantity>6</quantity>
+            </item>
+        </items>
+        <phone>527-368-7429</phone>
+        <store>SparkMart</store>
+        <date>2023-07-15</date>
+    </transaction>
+    <transaction id="3009">
+        <items>
+            <item>
+                <item>Coca-Splash</item>
+                <price>36</price>
+                <price_per_item>3</price_per_item>
+                <quantity>12</quantity>
+            </item>
+        </items>
+        <phone>245-455-9119</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2023-07-22</date>
+    </transaction>
+    <transaction id="3010">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>20</price>
+                <price_per_item>5</price_per_item>
+                <quantity>4</quantity>
+            </item>
+        </items>
+        <phone>194-640-2758</phone>
+        <store>SparkMart</store>
+        <date>2022-03-15</date>
+    </transaction>
+    <transaction id="3011">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>15</price>
+                <price_per_item>5</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>981-878-3234</phone>
+        <store>Trader Tales</store>
+        <date>2022-06-22</date>
+    </transaction>
+    <transaction id="3012">
+        <items>
+            <item>
+                <item>Krafty Cheddar</item>
+                <price>25</price>
+                <price_per_item>5</price_per_item>
+                <quantity>5</quantity>
+            </item>
+        </items>
+        <phone>917-348-4728</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-09-03</date>
+    </transaction>
+    <transaction id="3013">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>12</price>
+                <price_per_item>4</price_per_item>
+                <quantity>3</quantity>
+            </item>
+        </items>
+        <phone>530-539-9474</phone>
+        <store>SparkMart</store>
+        <date>2022-05-18</date>
+    </transaction>
+    <transaction id="3014">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>533-849-3913</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-08-11</date>
+    </transaction>
+    <transaction id="3015">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>16</price>
+                <price_per_item>4</price_per_item>
+                <quantity>4</quantity>
+            </item>
+        </items>
+        <phone>830-901-9870</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-10-07</date>
+    </transaction>
+    <transaction id="3016">
+        <items>
+            <item>
+                <item>Dovee</item>
+                <price>8</price>
+                <price_per_item>4</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>937-172-2269</phone>
+        <store>PetPals Mart</store>
+        <date>2022-11-15</date>
+    </transaction>
+    <transaction id="3017">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>277-350-5557</phone>
+        <store>Trader Tales</store>
+        <date>2022-04-19</date>
+    </transaction>
+    <transaction id="3018">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>872-906-9681</phone>
+        <store>SparkMart</store>
+        <date>2022-07-14</date>
+    </transaction>
+    <transaction id="3019">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>10</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>492-337-4468</phone>
+        <store>BestChoice Buy</store>
+        <date>2022-09-09</date>
+    </transaction>
+    <transaction id="3020">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>28</price>
+                <price_per_item>4</price_per_item>
+                <quantity>7</quantity>
+            </item>
+        </items>
+        <phone>612-360-5367</phone>
+        <store>SparkMart</store>
+        <date>2022-03-27</date>
+    </transaction>
+    <transaction id="3021">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>32</price>
+                <price_per_item>4</price_per_item>
+                <quantity>8</quantity>
+            </item>
+        </items>
+        <phone>505-325-3117</phone>
+        <store>PetPals Mart</store>
+        <date>2022-08-09</date>
+    </transaction>
+    <transaction id="3022">
+        <items>
+            <item>
+                <item>RedCow</item>
+                <price>16</price>
+                <price_per_item>4</price_per_item>
+                <quantity>4</quantity>
+            </item>
+        </items>
+        <phone>868-828-4315</phone>
+        <store>Urban Outfitters Loft</store>
+        <date>2022-11-03</date>
+    </transaction>
+    <transaction id="4002">
+        <items>
+            <item>
+                <item>GatorBoost</item>
+                <price>0</price>
+                <price_per_item>3</price_per_item>
+                <quantity>10</quantity>
+            </item>
+        </items>
+        <phone>777-777-7777</phone>
+        <store>SparkMart</store>
+        <date>2023-07-13</date>
+    </transaction>
+    <transaction id="4003">
+        <items>
+            <item>
+                <item>Flixnet</item>
+                <price>-50</price>
+                <price_per_item>10</price_per_item>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <phone>888-888-8888</phone>
+        <store>BestChoice Buy</store>
+        <date>2023-11-24</date>
+    </transaction>
+    <transaction id="5000">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>18</price>
+                <price_per_item>3</price_per_item>
+                <quantity>6</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>416-772-8288</phone>
+        <store>SparkMart</store>
+        <date>2023-08-25</date>
+    </transaction>
+    <transaction id="5001">
+        <items>
+            <item>
+                <item>Oreoz</item>
+                <price>18</price>
+                <price_per_item>3</price_per_item>
+                <quantity>6</quantity>
+            </item>
+            <item>
+                <item>GatorBoost</item>
+                <price>6</price>
+                <price_per_item>3</price_per_item>
+                <quantity>2</quantity>
+            </item>
+        </items>
+        <phone>416-772-8288</phone>
+        <store>SparkMart</store>
+        <date>2023-08-25</date>
+    </transaction>
+</transactions>
