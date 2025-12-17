@@ -1,67 +1,231 @@
-# Venmito Data Engineering Project
+# Venmito Customer 360 — Customer Insights Dashboard
 
-## Introduction
+**Author:** Ivanier Bellido  
+**Email:** <ivanierb@gmail.com>  
 
-*Welcome to Xtillion's Data Engineering Project. For this exercise, we will simulate a client interaction where you are an engineering consultant for Venmito, your client. We're excited to see how you tackle this challenge and provide us with a solution that can bring together disparate data sources into an insightful and valuable resource.* 
+---
 
-We are Venmito, a modest payments startup focused on making it easy for our customers to transfer funds, shop at participating local stores, and enjoy personalized promotions tailored just for them. As our popularity has steadily grown, so has the volume and complexity of our data. Unfortunately, this sustained growth has overwhelmed our original data systems, and we now find ourselves with a setup that's no longer sustainable.
+## Project Overview
 
-**That's where you come in**. Your mission is to unravel and consolidate our fragmented data into a scalable, insightful, and consumable solution. We're counting on your technical skills, creativity, and resourcefulness to guide us from data chaos to clarity, enabling smarter decisions and continued growth.
+This project builds a complete **Customer 360 analytics system** for Venmito. The goal is to take fragmented customer, transaction, promotion, and transfer data coming from different sources and formats, unify it into a clean data model, and expose meaningful insights through an interactive dashboard.
 
-We have five data files available:
+The focus of this project is **decision support**. Everything—from the data model to the dashboard design—was built to help managers understand customer behavior, revenue drivers, and promotion effectiveness in a clear and intuitive way.
 
-- people.json
-- people.yml
-- transfers.csv
-- transactions.xml
-- promotions.csv
+The project is designed to run locally on **Mac or Linux** with minimal setup.
 
-These files contain information about our customers, transactions, transfers, or promotions.
+---
 
-Your task is to develop a solution that reads, unifies, and structures our data into a consumable format. Additionally, we would like you to analyze this data and provide clear, actionable insights based solely on your findings. These insights should help us better understand our customers, improve our processes, and make informed, data-driven decisions going forward.
+## What the Project Does
 
-## Requirements
+- Ingests raw data from multiple file formats (JSON, YAML, CSV, XML)
+- Matches customers across sources using normalized identifiers
+- Creates a single, unified `customer_id`
+- Enriches transactions and promotions with customer information
+- Stores clean, structured data in a SQLite database
+- Displays insights through an interactive Streamlit dashboard
 
-1. **Data Ingestion**: Your solution should be able to read and load data from all the provided files. Take into account that these files are in different formats (JSON, YAML, CSV, XML).
+---
 
-2. **Data Matching and Conforming**: Once the data is loaded, your solution should be capable of matching and conforming the data across these files. This includes identifying common entities, resolving inconsistencies, and organizing the data into a unified format. Furthermore, the consolidated data should not only be transient but also persistent. This persistence should be achieved using appropriate methods such as storing in a file, database, or other suitable data storage solutions, and not restricted to just a variable in memory. This way, the integrity and availability of the consolidated data are ensured for future use and analysis.
+## Technologies Used
 
-3. **Data Analysis**: Your solution should be able to process the conformed data to derive insights about our clients and transactions. This would involve implementing data aggregations, calculating relevant metrics, and identifying patterns. These insights will be invaluable in helping us understand our clientele and transaction trends better. **Here are just a few ideas to get you started—don't limit yourself to just these examples, think outside the box and come up with your own metrics as you work through the project**! For example, you might look into:
-    - Which clients have what type of promotion?
-    - Give suggestions on how to turn "No" responses from clients in the promotions file.
-    - Insights on stores, like:
-        - What item is the best seller?
-        - What store has had the most profit?
-        - Etc.
-    - How can we use the data we got from the transfer file?
+- **Python** – main language for data processing and the dashboard  
+- **Pandas** – data ingestion, cleaning, transformation, and aggregation  
+- **SQLite** – lightweight database used as the final data store  
+- **Streamlit** – interactive dashboard framework  
+- **Altair** – clean, declarative data visualizations  
 
-4. **Data Output**: The final output of your solution should enable us to consume the reorganized and analyzed data in a meaningful way. This could be, but is not restricted to, a command line interface (CLI), a GUI featuring interactive visualizations, a Jupyter Notebook, or a RESTful API. We invite you to leverage other innovative methods that you believe would be beneficial for a company like Venmito. Please provide at least 2 data consumption methods, 1 for the non-technical team and 1 for the technical team.
+These tools were chosen because they are lightweight, widely supported, easy to run locally, and well suited for analytics and prototyping.
 
+---
 
-5. **Code**: The code for your solution should be well-structured and comprehensible, with comments included where necessary. Remember, the quality and readability of the code will be a significant factor in the evaluation of the final deliverable.
+## Project Structure
 
-Note: The examples provided in these requirements (such as GUI, RESTful API etc.) are purely illustrative. You are free to employ any solution or technology you deem fit for fulfilling these requirements
+```
 
-## Deliverables
+venmito-template-main/
+│
+├── data/
+│   ├── (raw input files)
+│   └── processed/
+│       └── venmito.db          # Generated SQLite database
+│
+├── scripts/
+│   ├── test_ingest.py          # Validates data ingestion
+│   └── build_db.py             # Builds the full database
+│
+├── src/
+│   └── venmito/
+│       ├── ingest/             # Data loaders (JSON, YAML, etc.)
+│       └── match/              # Customer matching logic
+│
+├── app/
+│   └── venmito_dashboard.py    # Streamlit dashboard
+│
+└── README.md
 
-1. Source code.
-2. A README file with your name, email, a description of your solution, your design decisions, and clear instructions on how to run your code.
-3. A method to consume the reorganized and analyzed data.
+````
 
-## Instructions for Submission
+---
 
-1. Complete your project as described above in a branch within your fork.
-2. Write a detailed README file with your name, email, a description explaining your approach, the technologies you used, and provides clear instructions on how to run your code.
-3. Submit your project by uploading a zip file to the provided URL.
+## Data Model Overview
 
-We look forward to seeing your solution!
+The data pipeline produces the following tables in `venmito.db`:
 
-Thank you,
+- **customers** – unified customer dimension with normalized contact info  
+- **json_customer_map** – maps JSON customer IDs to unified customer IDs  
+- **yaml_customer_map** – maps YAML customer IDs to unified customer IDs  
+- **transactions** – transaction-level data  
+- **transaction_items** – item-level transaction data  
+- **promotions** – promotion campaigns and responses  
+- **transfers** – peer-to-peer transfers  
 
-Venmito
+This structure ensures that all downstream analysis is based on a single, consistent customer identity.
 
-## DISCLAIMER:
+---
 
-This project and its contents are the exclusive property of Xtillion, LLC and are intended solely for the evaluation of the individual to whom it was provided. Any distribution, reproduction, or unauthorized use is strictly prohibited. By accessing and using this project, you agree to abide by these conditions. Failure to comply with these terms may result in legal action.
+## Dashboard Overview
 
-Please note that this project is provided "as is", without warranty of any kind, express or implied. Xtillion is not liable for any damages or claims that might arise from using or misusing this project.
+The dashboard is divided into five main sections:
+
+### Overview
+
+High-level executive summary including:
+
+- Total revenue
+- Average order value
+- Active customers
+- Promotion response rate
+- Revenue trends over time
+
+### Customers
+
+Customer behavior and segmentation:
+
+- RFM-style customer segments
+- Segment distribution
+- Top customers by spend
+- Recency and activity metrics
+
+### Promotions
+
+Promotion performance analysis:
+
+- Overall funnel metrics (sent, contactable, responded)
+- Interactive breakdowns by:
+  - Promotion type
+  - Device type
+  - Customer country
+  - Weekday sent
+- Analysis of which factors most influence response behavior
+
+### Stores & Products
+
+Operational performance insights:
+
+- Top-performing stores
+- Best-selling products
+- Basket analysis for co-purchased items (analyst mode)
+
+### Data Quality
+
+Quality and anomaly checks:
+
+- Missing customer contact information
+- Zero or negative transaction totals
+- Suspicious line items
+- Potential duplicate transactions
+
+---
+
+## Key Design Decisions
+
+### Customer Matching First
+
+All analysis depends on reliable customer identity. Customer matching is performed before any metrics are calculated to avoid duplication and inconsistencies.
+
+### SQLite as the Output Database
+
+SQLite was chosen because it is:
+
+- Portable (single file)
+- Easy to inspect and debug
+- Ideal for demos, analysis, and local execution
+
+### Executive vs Analyst Views
+
+The dashboard supports two modes:
+
+- **Executive summary** for high-level insights
+- **Analyst detail** for deeper exploration and raw data inspection
+
+### Clear Visual Hierarchy
+
+The dashboard emphasizes:
+
+- Large, high-contrast KPIs
+- A consistent color palette
+- Simple charts focused on comparisons and trends
+
+This makes insights easy to scan and interpret quickly.
+
+---
+
+## How to Run the Project (Mac or Linux)
+
+### 1. Create and activate a virtual environment
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+````
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. (Optional) Test data ingestion
+
+```bash
+python scripts/test_ingest.py
+```
+
+This step verifies that raw data files are being read correctly.
+
+### 4. Build the database
+
+```bash
+python scripts/build_db.py
+```
+
+This command processes all raw data and creates:
+
+```
+data/processed/venmito.db
+```
+
+### 5. Run the dashboard
+
+```bash
+streamlit run app/venmito_dashboard.py
+```
+
+The dashboard will automatically open in your browser.
+
+---
+
+## Using the Dashboard
+
+- Use the **Global Filters** in the sidebar to filter by date range, store, country, and device type
+- Switch between **Executive summary** and **Analyst detail** views
+- Navigate through tabs to explore different aspects of the business
+- Hover over charts to see detailed tooltips and additional context
+
+---
+
+## Notes and Troubleshooting
+
+- If the database is missing, ensure `scripts/build_db.py` ran successfully
+- Always run commands from the **project root directory**
+- Make sure the virtual environment is activated before running scripts
